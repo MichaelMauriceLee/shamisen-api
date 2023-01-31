@@ -41,4 +41,4 @@ jobs:
           app-name: 'shamisenfunctions'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5B32843DD6A34012B5411DB90A0FB945 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_962AD04EAAD14440AAF3FC56989FD30E }}
